@@ -1,0 +1,6 @@
+risc , cish
+clock arbritration ,clock switching
+
+system calls
+
+GPIO pin, mode,pull, speed

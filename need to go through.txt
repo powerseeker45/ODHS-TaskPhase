@@ -1,0 +1,2 @@
+risc , cish
+clock arbritration ,clock switching
